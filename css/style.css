@@ -1,0 +1,47 @@
+.container{
+    margin-bottom: 60px;
+
+    
+}
+.logos{
+    width: 80px;
+}
+.buy-now-button{
+    background-image: linear-gradient(to bottom, #7098ee, #585385);
+    color: white;
+    padding: 13px 23px;
+    border-radius: 15px;
+    border: none;
+}
+.carousel-item{
+    padding: 20px 20px;
+}
+.back-bg{
+    background-color: rgb(175, 245, 250);
+    border-radius: 20px;
+}
+.price{
+    color: red;
+    padding-left: 15px;
+}
+.col-md-7{
+    padding-left: 45px;
+}
+.phoneimage{
+    width: 250px;
+}
+.card{
+    border: none;
+    box-shadow: 5px 5px 10px rgba(175, 212, 247, 0.836);
+    border-radius: 30px;
+}
+.card-footer{
+    border: none;
+}
+.footer{
+    padding-bottom: 60px;
+    padding-top: 180px;
+    text-align: center;
+    height: 200px;
+}
+
